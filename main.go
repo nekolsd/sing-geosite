@@ -307,7 +307,7 @@ func release(source string, destination string, output string, cnOutput string, 
 
 func main() {
 	err := release(
-		"v2fly/domain-list-community",
+		"nekolsd/domain-list-community",
 		"nekolsd/sing-geosite",
 		"geosite.db",
 		"geosite-cn.db",
