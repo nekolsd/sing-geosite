@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"context"
 	"crypto/sha256"
 	"encoding/hex"
@@ -204,7 +205,34 @@ func filterTags(data map[string][]geosite.Item) {
 
 }
 
-func generate(release *github.RepositoryRelease, output string, cnOutput string, ruleSetOutput string) error {
+func generateDomainSet(domainMap map[string][]geosite.Item, output string) error {
+	os.RemoveAll(output)
+	if err := os.MkdirAll(output, 0o755); err != nil {
+		return err
+	}
+	for code, items := range domainMap {
+		var lines []string
+		for _, item := range items {
+			switch item.Type {
+			case geosite.RuleTypeDomain:
+				lines = append(lines, item.Value)
+			case geosite.RuleTypeDomainSuffix:
+				lines = append(lines, item.Value)
+			}
+		}
+		if len(lines) == 0 {
+			continue
+		}
+		sort.Strings(lines)
+		filePath := filepath.Join(output, code+".txt")
+		if err := os.WriteFile(filePath, []byte(strings.Join(lines, "\n")+"\n"), 0644); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func generate(release *github.RepositoryRelease, output string, ruleSetOutput string, domainSetOutput string) error {
 	vData, err := download(release)
 	if err != nil {
 		return err
@@ -221,25 +249,12 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 		return err
 	}
 	defer outputFile.Close()
-	err = geosite.Write(outputFile, domainMap)
+	outputWriter := bufio.NewWriter(outputFile)
+	err = geosite.Write(outputWriter, domainMap)
 	if err != nil {
 		return err
 	}
-	cnCodes := []string{
-		"cn",
-		"geolocation-!cn",
-		"category-companies@cn",
-	}
-	cnDomainMap := make(map[string][]geosite.Item)
-	for _, cnCode := range cnCodes {
-		cnDomainMap[cnCode] = domainMap[cnCode]
-	}
-	cnOutputFile, err := os.Create(cnOutput)
-	if err != nil {
-		return err
-	}
-	defer cnOutputFile.Close()
-	err = geosite.Write(cnOutputFile, cnDomainMap)
+	err = outputWriter.Flush()
 	if err != nil {
 		return err
 	}
@@ -262,27 +277,34 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 				DefaultOptions: headlessRule,
 			},
 		}
-		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".srs"))
+		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, code+".srs"))
 		// os.Stderr.WriteString("write " + srsPath + "\n")
 		outputRuleSet, err := os.Create(srsPath)
 		if err != nil {
 			return err
 		}
-		err = srs.Write(outputRuleSet, plainRuleSet)
+		err = srs.Write(outputRuleSet, plainRuleSet, C.RuleSetVersionCurrent)
 		if err != nil {
 			outputRuleSet.Close()
 			return err
 		}
 		outputRuleSet.Close()
 	}
-	return nil
+	return generateDomainSet(domainMap, domainSetOutput)
 }
 
 func setActionOutput(name string, content string) {
-	os.Stdout.WriteString("::set-output name=" + name + "::" + content + "\n")
+	ghOutput, ok := os.LookupEnv("GITHUB_OUTPUT")
+	if ok {
+		f, err := os.OpenFile(ghOutput, os.O_APPEND|os.O_WRONLY, 0644)
+		if err == nil {
+			f.WriteString(name + "=" + content + "\n")
+			f.Close()
+		}
+	}
 }
 
-func release(source string, destination string, output string, cnOutput string, ruleSetOutput string) error {
+func release(source string, destination string, output string, ruleSetOutput string, domainSetOutput string) error {
 	sourceRelease, err := fetch(source)
 	if err != nil {
 		return err
@@ -297,7 +319,7 @@ func release(source string, destination string, output string, cnOutput string, 
 			return nil
 		}
 	}
-	err = generate(sourceRelease, output, cnOutput, ruleSetOutput)
+	err = generate(sourceRelease, output, ruleSetOutput, domainSetOutput)
 	if err != nil {
 		return err
 	}
@@ -310,8 +332,8 @@ func main() {
 		"nekolsd/domain-list-community",
 		"nekolsd/sing-geosite",
 		"geosite.db",
-		"geosite-cn.db",
 		"rule-set",
+		"domain-set",
 	)
 	if err != nil {
 		log.Fatal(err)

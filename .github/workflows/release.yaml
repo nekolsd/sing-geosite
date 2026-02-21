@@ -1,6 +1,11 @@
 name: Release
 on:
   workflow_dispatch:
+    inputs:
+      no_skip:
+        description: 'Force rebuild even if upstream unchanged'
+        type: boolean
+        default: false
   schedule:
     - cron: "0 0 * * *"
 jobs:
@@ -18,6 +23,8 @@ jobs:
           go-version: ^1.22
       - name: Build geosite
         id: build
+        env:
+          NO_SKIP: ${{ inputs.no_skip == true && 'true' || 'false' }}
         run: |
           go run -v .
       - name: Release rule sets
@@ -25,11 +32,15 @@ jobs:
         run: .github/release-rule-set.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Release domain sets
+        if: steps.build.outputs.skip != 'true'
+        run: .github/release-domain-set.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate sha256 hash
         if: steps.build.outputs.skip != 'true'
         run: |
           sha256sum geosite.db > geosite.db.sha256sum
-          sha256sum geosite-cn.db > geosite-cn.db.sha256sum
       - name: Release release branch
         if: steps.build.outputs.skip != 'true'
         run: .github/release-branch.sh
@@ -49,5 +60,3 @@ jobs:
           files: |
             geosite.db
             geosite.db.sha256sum
-            geosite-cn.db
-            geosite-cn.db.sha256sum
