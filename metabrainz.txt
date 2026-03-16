@@ -1,0 +1,16 @@
+.acousticbrainz.org
+.bookbrainz.org
+.coverartarchive.org
+.critiquebrainz.org
+.listenbrainz.org
+.messybrainz.org
+.metabrainz.org
+.musicbrainz.org
+acousticbrainz.org
+bookbrainz.org
+coverartarchive.org
+critiquebrainz.org
+listenbrainz.org
+messybrainz.org
+metabrainz.org
+musicbrainz.org

@@ -1,0 +1,6 @@
+.scp-wiki.net
+.scpdb.org
+.scpwiki.com
+scp-wiki.net
+scpdb.org
+scpwiki.com

@@ -1,0 +1,4 @@
+.sentry-cdn.com
+.sentry.io
+sentry-cdn.com
+sentry.io

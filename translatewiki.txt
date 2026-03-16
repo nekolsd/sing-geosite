@@ -1,0 +1,4 @@
+.translatewiki.net
+.translatewiki.org
+translatewiki.net
+translatewiki.org

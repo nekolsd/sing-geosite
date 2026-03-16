@@ -1,0 +1,10 @@
+.hero.com
+.heroesports.com
+.herogame.com
+.shyxhy.com
+.yingxiong.com
+hero.com
+heroesports.com
+herogame.com
+shyxhy.com
+yingxiong.com

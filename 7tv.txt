@@ -1,0 +1,4 @@
+.7tv.app
+.7tv.io
+7tv.app
+7tv.io

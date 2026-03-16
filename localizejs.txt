@@ -1,0 +1,6 @@
+.localizecdn.com
+.localizejs.com
+.localizestatus.com
+localizecdn.com
+localizejs.com
+localizestatus.com

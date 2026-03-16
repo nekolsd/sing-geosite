@@ -1,0 +1,6 @@
+.fibank.bg
+.meawallet.app
+.myfin.bg
+fibank.bg
+meawallet.app
+myfin.bg

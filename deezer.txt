@@ -1,0 +1,4 @@
+.deezer.com
+.dzcdn.net
+deezer.com
+dzcdn.net

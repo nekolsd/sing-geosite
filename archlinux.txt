@@ -1,0 +1,6 @@
+.archlinux.org
+.archlinuxarm.org
+.archlinuxcn.org
+archlinux.org
+archlinuxarm.org
+archlinuxcn.org

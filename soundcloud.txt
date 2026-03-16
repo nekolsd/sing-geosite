@@ -1,0 +1,6 @@
+.sndcdn.com
+.soundcloud.cloud
+.soundcloud.com
+sndcdn.com
+soundcloud.cloud
+soundcloud.com

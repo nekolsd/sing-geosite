@@ -1,0 +1,6 @@
+.meitu.com
+.meitudata.com
+.meitustat.com
+meitu.com
+meitudata.com
+meitustat.com

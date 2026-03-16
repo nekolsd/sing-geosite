@@ -1,0 +1,6 @@
+.embed.ly
+.embedly.com
+.playerjs.io
+embed.ly
+embedly.com
+playerjs.io

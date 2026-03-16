@@ -1,0 +1,14 @@
+.amplifi.com.cn
+.frontrow.com.cn
+.ubnt.com
+.ubnt.com.cn
+.ui.com.cn
+.uum.com.cn
+.uwn.com
+amplifi.com.cn
+frontrow.com.cn
+ubnt.com
+ubnt.com.cn
+ui.com.cn
+uum.com.cn
+uwn.com

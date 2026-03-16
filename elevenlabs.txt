@@ -1,0 +1,4 @@
+.elevenlabs.com
+.elevenlabs.io
+elevenlabs.com
+elevenlabs.io

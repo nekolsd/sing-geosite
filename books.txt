@@ -1,0 +1,4 @@
+.book.com.tw
+.books.com.tw
+book.com.tw
+books.com.tw

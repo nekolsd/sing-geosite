@@ -1,0 +1,6 @@
+.grok.com
+.grok.x.com
+.x.ai
+grok.com
+grok.x.com
+x.ai

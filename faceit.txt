@@ -1,0 +1,4 @@
+.faceit-cdn.net
+.faceit.com
+faceit-cdn.net
+faceit.com

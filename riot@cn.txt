@@ -1,0 +1,4 @@
+.leagueoflegends.cn
+.lpl.com.cn
+leagueoflegends.cn
+lpl.com.cn

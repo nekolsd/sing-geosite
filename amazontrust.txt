@@ -1,0 +1,6 @@
+.amazontrust.com
+.awstrust.com
+.ss2.us
+amazontrust.com
+awstrust.com
+ss2.us

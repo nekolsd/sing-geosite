@@ -1,0 +1,4 @@
+.catchplay.com
+.tra-ww000-cp.akamaized.net
+catchplay.com
+tra-ww000-cp.akamaized.net

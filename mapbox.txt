@@ -1,0 +1,4 @@
+.mapbox.cn
+.mapbox.com
+mapbox.cn
+mapbox.com

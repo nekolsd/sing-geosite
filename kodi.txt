@@ -1,0 +1,4 @@
+.kodi.tv
+.kodi.wiki
+kodi.tv
+kodi.wiki

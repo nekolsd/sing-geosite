@@ -1,0 +1,4 @@
+.techpowerup.com
+.tpucdn.com
+techpowerup.com
+tpucdn.com

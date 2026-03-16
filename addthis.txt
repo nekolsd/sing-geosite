@@ -1,0 +1,6 @@
+.addthis.com
+.addthiscdn.com
+.addthisedge.com
+addthis.com
+addthiscdn.com
+addthisedge.com

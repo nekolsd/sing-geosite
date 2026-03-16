@@ -1,0 +1,9 @@
+.panasonic
+.panasonic.cn
+.panasonic.com
+.panasonic.jp
+.technics.com
+panasonic.cn
+panasonic.com
+panasonic.jp
+technics.com

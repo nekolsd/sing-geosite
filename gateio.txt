@@ -1,0 +1,10 @@
+.gate.io
+.gatedata.org
+.gateimg.com
+.gateio.live
+.gateio.services
+gate.io
+gatedata.org
+gateimg.com
+gateio.live
+gateio.services

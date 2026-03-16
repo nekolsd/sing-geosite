@@ -1,0 +1,2 @@
+.badjs.weixinbridge.com
+badjs.weixinbridge.com

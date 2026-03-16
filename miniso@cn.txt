@@ -1,0 +1,6 @@
+.miniso.cn
+.minisohome.cn
+.minsio.cn
+miniso.cn
+minisohome.cn
+minsio.cn

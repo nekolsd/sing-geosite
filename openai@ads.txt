@@ -1,0 +1,2 @@
+browser-intake-datadoghq.com
+o33249.ingest.sentry.io

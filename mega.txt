@@ -1,0 +1,6 @@
+.mega.co.nz
+.mega.io
+.mega.nz
+mega.co.nz
+mega.io
+mega.nz

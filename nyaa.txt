@@ -1,0 +1,4 @@
+.nyaa.net
+.nyaa.si
+nyaa.net
+nyaa.si

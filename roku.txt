@@ -1,0 +1,12 @@
+.fandango.com
+.mgo-images.com
+.mgo.com
+.ravm.tv
+.roku.com
+.rokutime.com
+fandango.com
+mgo-images.com
+mgo.com
+ravm.tv
+roku.com
+rokutime.com

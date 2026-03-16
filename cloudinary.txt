@@ -1,0 +1,4 @@
+.cloudinary.com
+.cloudinary.net
+cloudinary.com
+cloudinary.net

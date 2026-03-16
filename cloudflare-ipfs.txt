@@ -1,0 +1,4 @@
+.cf-ipfs.com
+.cloudflare-ipfs.com
+cf-ipfs.com
+cloudflare-ipfs.com
