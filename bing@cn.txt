@@ -1,0 +1,16 @@
+.bing.com.cn
+.cn.bing.com
+.cn.bing.net
+.cn.mm.bing.net
+.ditu.live.com
+.r.bing.com
+.th.bing.com
+bing.com.cn
+bj1.api.bing.com
+cn.bing.com
+cn.bing.net
+cn.mm.bing.net
+ditu.live.com
+emoi-cncdn.bing.com
+r.bing.com
+th.bing.com

@@ -1,0 +1,4 @@
+.a.mts.ru
+.obs.mts.ru
+a.mts.ru
+obs.mts.ru

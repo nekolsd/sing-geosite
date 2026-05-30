@@ -1,0 +1,4 @@
+.flibusta.is
+.flisland.net
+flibusta.is
+flisland.net

@@ -1,0 +1,4 @@
+.fonts.com
+.fonts.net
+fonts.com
+fonts.net

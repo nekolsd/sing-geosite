@@ -1,0 +1,4 @@
+.musixmatch.com
+.mxmcdn.net
+musixmatch.com
+mxmcdn.net

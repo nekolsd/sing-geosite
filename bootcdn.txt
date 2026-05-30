@@ -1,0 +1,8 @@
+.bootcdn.cn
+.bootcdn.net
+.bootcss.com
+.phpcomposer.com
+bootcdn.cn
+bootcdn.net
+bootcss.com
+phpcomposer.com

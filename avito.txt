@@ -1,0 +1,4 @@
+.avito.ru
+.avito.st
+avito.ru
+avito.st

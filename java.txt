@@ -1,0 +1,5 @@
+.java
+.java.com
+.java.net
+java.com
+java.net

@@ -1,0 +1,4 @@
+.goproxy.cn
+.goproxy.io
+goproxy.cn
+goproxy.io

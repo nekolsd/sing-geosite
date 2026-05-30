@@ -1,0 +1,6 @@
+.mafengwo.cn
+.mafengwo.com
+.mafengwo.net
+mafengwo.cn
+mafengwo.com
+mafengwo.net

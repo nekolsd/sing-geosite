@@ -1,0 +1,4 @@
+.haveibeenpwned.com
+.pwnedpasswords.com
+haveibeenpwned.com
+pwnedpasswords.com

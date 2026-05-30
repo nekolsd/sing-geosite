@@ -1,0 +1,10 @@
+.ctexcel.ca
+.ctexcel.com
+.ctexcel.com.hk
+.ctexcel.fr
+.ctexcel.us
+ctexcel.ca
+ctexcel.com
+ctexcel.com.hk
+ctexcel.fr
+ctexcel.us

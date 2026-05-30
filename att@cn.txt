@@ -1,0 +1,4 @@
+.att.cn
+.attcorp.cn
+att.cn
+attcorp.cn

@@ -1,0 +1,4 @@
+.kinopoisk-ru.clstorage.net
+.kinopoisk.ru
+kinopoisk-ru.clstorage.net
+kinopoisk.ru

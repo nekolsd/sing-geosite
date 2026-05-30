@@ -1,0 +1,4 @@
+.startupschool.org
+.ycombinator.com
+startupschool.org
+ycombinator.com

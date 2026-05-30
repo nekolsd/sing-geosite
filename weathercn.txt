@@ -1,0 +1,10 @@
+.hf-aw.cn
+.hf-aw.com
+.huafeng-accuweather.cn
+.huafengaw.com
+.weathercn.com
+hf-aw.cn
+hf-aw.com
+huafeng-accuweather.cn
+huafengaw.com
+weathercn.com

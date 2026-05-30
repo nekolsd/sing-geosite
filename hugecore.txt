@@ -1,0 +1,6 @@
+.hugecore.net
+.mojidict.com
+.shareintelli.com
+hugecore.net
+mojidict.com
+shareintelli.com

@@ -1,0 +1,4 @@
+.gitv.cn
+.gitv.tv
+gitv.cn
+gitv.tv

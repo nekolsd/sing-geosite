@@ -1,0 +1,13 @@
+.bilibili.tv
+.biliintl.com
+.dreamcast.hk
+.iq.com
+.taptap.io
+.webnovel.com
+bilibili.tv
+biliintl.com
+dreamcast.hk
+iq.com
+taptap.io
+upos-hz-mirrorakam.akamaized.net
+webnovel.com

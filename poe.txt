@@ -1,0 +1,4 @@
+.poe.com
+.poecdn.net
+poe.com
+poecdn.net

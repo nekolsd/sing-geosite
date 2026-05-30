@@ -1,0 +1,6 @@
+.certum.pl
+.ocsp-certum.com
+.ocsp-responder.com
+certum.pl
+ocsp-certum.com
+ocsp-responder.com

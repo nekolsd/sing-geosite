@@ -1,0 +1,6 @@
+.flutter.dev
+.flutterapp.com
+.pub.dev
+flutter.dev
+flutterapp.com
+pub.dev

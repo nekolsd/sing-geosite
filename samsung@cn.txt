@@ -1,0 +1,8 @@
+.ad-survey.com
+.galaxyappstore.com
+.samsungcloudcn.com
+.samsungeshop.com.cn
+ad-survey.com
+galaxyappstore.com
+samsungcloudcn.com
+samsungeshop.com.cn

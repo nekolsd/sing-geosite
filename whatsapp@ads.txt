@@ -1,0 +1,4 @@
+.graph.whatsapp.com
+.graph.whatsapp.net
+graph.whatsapp.com
+graph.whatsapp.net

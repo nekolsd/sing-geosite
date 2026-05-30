@@ -1,0 +1,8 @@
+.ctan.org
+.latex-project.org
+.miktex.org
+.tug.org
+ctan.org
+latex-project.org
+miktex.org
+tug.org

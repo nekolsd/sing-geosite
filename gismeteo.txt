@@ -1,0 +1,14 @@
+.gismeteo.by
+.gismeteo.com
+.gismeteo.net
+.gismeteo.ru
+.gismeteo.st
+.meteofor.com
+.meteofor.st
+gismeteo.by
+gismeteo.com
+gismeteo.net
+gismeteo.ru
+gismeteo.st
+meteofor.com
+meteofor.st

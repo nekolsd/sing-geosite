@@ -1,0 +1,4 @@
+browser-intake-datadoghq.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+o33249.ingest.sentry.io

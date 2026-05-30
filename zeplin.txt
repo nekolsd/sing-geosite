@@ -1,0 +1,4 @@
+.zeplin.dev
+.zeplin.io
+zeplin.dev
+zeplin.io

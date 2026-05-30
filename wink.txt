@@ -1,0 +1,10 @@
+.more.tv
+.restream-media.net
+.restream.ru
+.wink.am
+.wink.ru
+more.tv
+restream-media.net
+restream.ru
+wink.am
+wink.ru

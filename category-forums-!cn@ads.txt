@@ -1,0 +1,4 @@
+.log.dzen.ru
+.ms.dzen.ru
+log.dzen.ru
+ms.dzen.ru

@@ -1,0 +1,6 @@
+.comsenz.com
+.discuz.net
+.discuz.org
+comsenz.com
+discuz.net
+discuz.org

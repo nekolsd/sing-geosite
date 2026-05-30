@@ -1,0 +1,2 @@
+.tidelift.com
+tidelift.com

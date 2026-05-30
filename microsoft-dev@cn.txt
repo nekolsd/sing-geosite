@@ -1,0 +1,6 @@
+.microsoftreactor.cn
+.microsoftreactor.com.cn
+.reactorms.com.cn
+microsoftreactor.cn
+microsoftreactor.com.cn
+reactorms.com.cn

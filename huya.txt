@@ -1,0 +1,4 @@
+.huya.com
+.msstatic.com
+huya.com
+msstatic.com

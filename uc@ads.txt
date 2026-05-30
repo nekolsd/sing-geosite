@@ -1,0 +1,4 @@
+.ads.uc.cn
+.adslot.uc.cn
+ads.uc.cn
+adslot.uc.cn

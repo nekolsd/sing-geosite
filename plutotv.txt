@@ -1,0 +1,4 @@
+.pluto.tv
+.plutotv.net
+pluto.tv
+plutotv.net

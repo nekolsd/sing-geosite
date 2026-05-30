@@ -1,0 +1,4 @@
+.sky.pro
+.skyeng.ru
+sky.pro
+skyeng.ru

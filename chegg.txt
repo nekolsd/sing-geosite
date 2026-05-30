@@ -1,0 +1,4 @@
+.chegg.com
+.cheggcdn.com
+chegg.com
+cheggcdn.com

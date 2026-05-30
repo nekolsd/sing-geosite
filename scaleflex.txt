@@ -1,0 +1,6 @@
+.cloudimage.io
+.cloudimg.io
+.scaleflex.com
+cloudimage.io
+cloudimg.io
+scaleflex.com

@@ -1,0 +1,4 @@
+.quickconnect.cn
+.synology.cn
+quickconnect.cn
+synology.cn

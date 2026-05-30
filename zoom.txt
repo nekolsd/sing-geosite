@@ -1,0 +1,6 @@
+.zoom.com
+.zoom.com.cn
+.zoom.us
+zoom.com
+zoom.com.cn
+zoom.us

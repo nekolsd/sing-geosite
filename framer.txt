@@ -1,0 +1,10 @@
+.framer.com
+.framer.website
+.framercanvas.com
+.framerstatic.com
+.framerusercontent.com
+framer.com
+framer.website
+framercanvas.com
+framerstatic.com
+framerusercontent.com
