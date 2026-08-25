@@ -1,0 +1,4 @@
+.kurogames-ads.com
+.log-upload.mihoyo.com
+kurogames-ads.com
+log-upload.mihoyo.com

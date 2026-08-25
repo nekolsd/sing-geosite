@@ -1,0 +1,8 @@
+.asus.com
+.asus.com.cn
+.asuscloud.com
+.asuswebstorage.com
+asus.com
+asus.com.cn
+asuscloud.com
+asuswebstorage.com

@@ -1,0 +1,4 @@
+.flathub.org
+.flatpak.org
+flathub.org
+flatpak.org

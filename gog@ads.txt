@@ -1,0 +1,2 @@
+.insights-collector.gog.com
+insights-collector.gog.com

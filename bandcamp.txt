@@ -1,0 +1,4 @@
+.bandcamp.com
+.bcbits.com
+bandcamp.com
+bcbits.com

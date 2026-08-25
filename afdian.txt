@@ -1,0 +1,8 @@
+.afdian.com
+.afdian.net
+.afdiancdn.com
+.ifdian.net
+afdian.com
+afdian.net
+afdiancdn.com
+ifdian.net

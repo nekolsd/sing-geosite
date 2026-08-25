@@ -1,0 +1,4 @@
+.c.mi.com
+.global.market.xiaomi.com
+c.mi.com
+global.market.xiaomi.com

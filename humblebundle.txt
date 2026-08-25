@@ -1,0 +1,3 @@
+.humblebundle.com
+hb.imgix.net
+humblebundle.com

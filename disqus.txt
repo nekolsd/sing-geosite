@@ -1,0 +1,8 @@
+.disq.us
+.disqus.com
+.disquscdn.com
+.disqusservice.com
+disq.us
+disqus.com
+disquscdn.com
+disqusservice.com

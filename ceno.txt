@@ -1,0 +1,4 @@
+.ceno.app
+.censorship.no
+ceno.app
+censorship.no

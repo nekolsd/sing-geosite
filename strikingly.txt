@@ -1,0 +1,6 @@
+.mystrikingly.com
+.strikingly.com
+.strikinglycdn.com
+mystrikingly.com
+strikingly.com
+strikinglycdn.com

@@ -1,0 +1,14 @@
+.fastly-edge.com
+.fastly-terrarium.com
+.fastly.com
+.fastly.io
+.fastly.net
+.fastlylabs.com
+.fastlylb.net
+fastly-edge.com
+fastly-terrarium.com
+fastly.com
+fastly.io
+fastly.net
+fastlylabs.com
+fastlylb.net

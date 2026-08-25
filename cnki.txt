@@ -1,0 +1,6 @@
+.chndoi.org
+.cnki.com.cn
+.cnki.net
+chndoi.org
+cnki.com.cn
+cnki.net

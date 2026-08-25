@@ -1,0 +1,4 @@
+.chess.com
+.chesscomfiles.com
+chess.com
+chesscomfiles.com

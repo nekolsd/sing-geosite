@@ -1,0 +1,12 @@
+.fury.blog
+.fury.co
+.fury.dev
+.fury.help
+.fury.io
+.gemfury.com
+fury.blog
+fury.co
+fury.dev
+fury.help
+fury.io
+gemfury.com

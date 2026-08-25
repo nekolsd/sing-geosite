@@ -1,0 +1,6 @@
+.booking.cn
+.booking.com
+.bstatic.com
+booking.cn
+booking.com
+bstatic.com

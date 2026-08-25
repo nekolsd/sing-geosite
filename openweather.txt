@@ -1,0 +1,4 @@
+.openweather.co.uk
+.openweathermap.org
+openweather.co.uk
+openweathermap.org

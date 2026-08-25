@@ -1,0 +1,6 @@
+.bamgrid.com
+.bamtech.net
+.dmed.technology
+bamgrid.com
+bamtech.net
+dmed.technology

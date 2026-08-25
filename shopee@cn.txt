@@ -1,0 +1,4 @@
+.shopee.cn
+.shopeesz.com
+shopee.cn
+shopeesz.com

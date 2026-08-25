@@ -1,0 +1,5 @@
+.avito.ru
+.avito.st
+avito.ru
+avito.st
+stats.avito.ru

@@ -1,0 +1,6 @@
+.bangumi.tv
+.bgm.tv
+.chii.in
+bangumi.tv
+bgm.tv
+chii.in

@@ -1,0 +1,6 @@
+.docs.rw
+.log.rw
+.try.rw
+docs.rw
+log.rw
+try.rw

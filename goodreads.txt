@@ -1,0 +1,4 @@
+.goodreads.com
+.gr-assets.com
+goodreads.com
+gr-assets.com

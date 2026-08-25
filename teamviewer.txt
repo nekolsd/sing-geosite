@@ -1,0 +1,8 @@
+.teamviewer.cn
+.teamviewer.com
+.teamviewer.us
+client-teamviewer-com.trafficmanager.net
+teamviewer.cn
+teamviewer.com
+teamviewer.com.cdn.cloudflare.net
+teamviewer.us

@@ -1,0 +1,4 @@
+.yahoo.cn
+.yahoo.com.cn
+yahoo.cn
+yahoo.com.cn

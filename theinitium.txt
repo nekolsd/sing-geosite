@@ -1,0 +1,4 @@
+.init.shop
+.theinitium.com
+init.shop
+theinitium.com

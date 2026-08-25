@@ -1,0 +1,4 @@
+.chinaz.com
+.chinaz.net
+chinaz.com
+chinaz.net

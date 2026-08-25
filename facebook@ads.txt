@@ -1,0 +1,6 @@
+.analytics.facebook.com
+.facebookads.com
+.pixel.facebook.com
+analytics.facebook.com
+facebookads.com
+pixel.facebook.com

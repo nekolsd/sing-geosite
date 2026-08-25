@@ -1,0 +1,6 @@
+.ad-survey.com
+.samsungadhub.com
+.samsungads.com
+ad-survey.com
+samsungadhub.com
+samsungads.com

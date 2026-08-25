@@ -1,0 +1,7 @@
+.nhk
+.nhk.jp
+.nhk.or.jp
+.nhkworld.jp
+nhk.jp
+nhk.or.jp
+nhkworld.jp

@@ -1,0 +1,4 @@
+.getlantern.org
+.lantern.io
+getlantern.org
+lantern.io

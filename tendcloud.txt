@@ -1,0 +1,10 @@
+.cpatrk.net
+.talkingdata.com
+.talkinggame.com
+.tdsdk.cpatrk.net
+.tendcloud.com
+cpatrk.net
+talkingdata.com
+talkinggame.com
+tdsdk.cpatrk.net
+tendcloud.com

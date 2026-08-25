@@ -1,0 +1,4 @@
+.comodo.com
+.comodo.net
+comodo.com
+comodo.net

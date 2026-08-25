@@ -1,0 +1,6 @@
+.ads.yahoo.com
+.gemini.yahoo.com
+.ysm.yahoo.com
+ads.yahoo.com
+gemini.yahoo.com
+ysm.yahoo.com

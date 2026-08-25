@@ -1,0 +1,4 @@
+.ap.org
+.apnews.com
+ap.org
+apnews.com

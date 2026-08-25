@@ -1,0 +1,10 @@
+.mxlogin.com
+.mxroute.com
+.mxroutedocs.com
+.mxroutehelp.com
+.mxrouting.net
+mxlogin.com
+mxroute.com
+mxroutedocs.com
+mxroutehelp.com
+mxrouting.net

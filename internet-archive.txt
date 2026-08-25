@@ -1,0 +1,6 @@
+.archive-it.org
+.archive.org
+.openlibrary.org
+archive-it.org
+archive.org
+openlibrary.org

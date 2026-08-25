@@ -1,0 +1,4 @@
+.k8s.io
+.kubernetes.io
+k8s.io
+kubernetes.io

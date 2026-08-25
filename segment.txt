@@ -1,0 +1,8 @@
+.segment.com
+.segment.io
+.segmenthub.com
+.segmentify.com
+segment.com
+segment.io
+segmenthub.com
+segmentify.com

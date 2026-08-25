@@ -1,0 +1,6 @@
+.ynet.cn
+.ynet.com
+.ynet.com.cn
+ynet.cn
+ynet.com
+ynet.com.cn

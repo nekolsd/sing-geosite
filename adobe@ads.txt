@@ -1,0 +1,6 @@
+.advertising.adobe.com
+.demdex.net
+.tubemogul.com
+advertising.adobe.com
+demdex.net
+tubemogul.com

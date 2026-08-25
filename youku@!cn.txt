@@ -1,0 +1,4 @@
+.youku.tv
+.youkuplay.com
+youku.tv
+youkuplay.com

@@ -1,0 +1,6 @@
+.funpay.com
+.funpay.ru
+.sfunpay.com
+funpay.com
+funpay.ru
+sfunpay.com

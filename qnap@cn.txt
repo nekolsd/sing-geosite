@@ -1,0 +1,8 @@
+.mycloudnas.com
+.myqnapcloud.cn
+.qlinkto.cn
+.qnap.com.cn
+mycloudnas.com
+myqnapcloud.cn
+qlinkto.cn
+qnap.com.cn

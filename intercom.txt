@@ -1,0 +1,8 @@
+.intercom.com
+.intercom.io
+.intercomassets.com
+.intercomcdn.com
+intercom.com
+intercom.io
+intercomassets.com
+intercomcdn.com

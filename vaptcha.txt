@@ -1,0 +1,4 @@
+.vaptcha.com
+.vaptcha.net
+vaptcha.com
+vaptcha.net

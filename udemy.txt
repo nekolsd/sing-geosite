@@ -1,0 +1,4 @@
+.udemy.com
+.udemycdn.com
+udemy.com
+udemycdn.com

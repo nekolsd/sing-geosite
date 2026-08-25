@@ -1,0 +1,4 @@
+.microsoftnews.cn
+.msn.cn
+microsoftnews.cn
+msn.cn

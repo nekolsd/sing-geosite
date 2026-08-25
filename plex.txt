@@ -1,0 +1,8 @@
+.plex.com
+.plex.services
+.plex.tv
+.plexapp.com
+plex.com
+plex.services
+plex.tv
+plexapp.com
